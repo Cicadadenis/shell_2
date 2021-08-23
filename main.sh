@@ -9,3 +9,5 @@ pipenv --python 3
 pipenv install -d --skip-lock
 
 pipenv shell
+
+python bot.py
